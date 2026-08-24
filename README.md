@@ -1,6 +1,6 @@
 # SQL Questions from LeetCode
 
-This repository contains my SQL50 solutions from LeetCode.
+This repository contains SQL solutions from LeetCode.
 
 ## Topics Covered
 - SELECT queries
